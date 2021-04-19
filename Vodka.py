@@ -1,4 +1,4 @@
- import smtplib
+import smtplib
 from os import system
 def hell():
                     mawar = "\033[31;m1"
